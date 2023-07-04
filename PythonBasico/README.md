@@ -4,7 +4,7 @@ En esta carpeta se encuentran las soluciones de las actividades de Python básic
 
 # Contenido
 
-- [Declaraciones `if`, `else` y `elif`](.\M%C3%B3dulo3Katas.ipynb)
+- [Declaraciones `if`, `else` y `elif`](M%C3%B3dulo3Katas.ipynb)
 - [Transformando cadenas](M%C3%B3dulo4Katas.ipynb)
 - [Usando operadores aritméticos](M%C3%B3dulo5Katas.ipynb)
 - [Creando y usando listas de Python](M%C3%B3dulo6Katas.ipynb)
