@@ -4,4 +4,4 @@ En este repositorio encontrarás todas las actividades del curso Fast track de P
 
 # Contenido
 
-- [Python básico](.\PythonBasico)
+- [Python básico](/PythonBasico)
