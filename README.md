@@ -1,14 +1,7 @@
 # PythonFastTrack-Actividades
 
-En esta carpeta se encuentran las soluciones de las actividades de Python básico del [repositorio](https://github.com/javierIA/PythonFastTrackIACXBOSCH).
+En este repositorio encontrarás todas las actividades del curso Fast track de Python para ciencia de datos del [Centro de Inteligencia Artificial](https://www.ia.center/es/).
 
 # Contenido
 
-- [Declaraciones `if`, `else` y `elif`](.\PythonBasico\Módulo3Katas.ipynb)
-- [Transformando cadenas](.\PythonBasico\Módulo4Katas.ipynb)
-- [Usando operadores aritméticos](.\PythonBasico\Módulo5Katas.ipynb)
-- [Creando y usando listas de Python](.\PythonBasico\Módulo6Katas.ipynb)
-- [Creación de un bucle "while"](.\PythonBasico\Módulo7Katas.ipynb)
-- [Creación de diccionarios de Python](.\PythonBasico\Módulo8Katas.ipynb)
-- [Uso de funciones en Python](.\PythonBasico\Módulo9Katas.ipynb)
-
+- [Python básico](.\PythonBasico)
