@@ -4,11 +4,11 @@ En esta carpeta se encuentran las soluciones de las actividades de Python básic
 
 # Contenido
 
-- [Declaraciones `if`, `else` y `elif`](.\Módulo3Katas.ipynb)
-- [Transformando cadenas](Módulo4Katas.ipynb)
-- [Usando operadores aritméticos](Módulo5Katas.ipynb)
-- [Creando y usando listas de Python](Módulo6Katas.ipynb)
-- [Creación de un bucle "while"](Módulo7Katas.ipynb)
-- [Creación de diccionarios de Python](Módulo8Katas.ipynb)
-- [Uso de funciones en Python](Módulo9Katas.ipynb)
+- [Declaraciones `if`, `else` y `elif`](.\M%C3%B3dulo3Katas.ipynb)
+- [Transformando cadenas](M%C3%B3dulo4Katas.ipynb)
+- [Usando operadores aritméticos](M%C3%B3dulo5Katas.ipynb)
+- [Creando y usando listas de Python](M%C3%B3dulo6Katas.ipynb)
+- [Creación de un bucle "while"](M%C3%B3dulo7Katas.ipynb)
+- [Creación de diccionarios de Python](M%C3%B3dulo8Katas.ipynb)
+- [Uso de funciones en Python](M%C3%B3dulo9Katas.ipynb)
 
