@@ -2,7 +2,7 @@
 
 En esta carpeta se encuentran las soluciones de las actividades de Python básico del [repositorio](https://github.com/javierIA/PythonFastTrackIACXBOSCH).
 
-## Contenido
+# Contenido
 
 - [Declaraciones `if`, `else` y `elif`](.\PythonBasico\Módulo3Katas.ipynb)
 - [Transformando cadenas](.\PythonBasico\Módulo4Katas.ipynb)
